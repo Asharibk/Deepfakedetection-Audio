@@ -15,6 +15,21 @@ Results and Evaluation
 
 After training, the model is evaluated on the test dataset, providing accuracy metrics. Training and validation performance graphs are generated to help diagnose any potential overfitting or underfitting.
 
+Total params:596,993
+Trainable params:596,993
+Non-trainable params:0
+
+
+
+
+Epochs:100
+Accuracy:0.6334
+loss:0.6204
+Test Accuracy:0.64   
+
+
+
+
 
 
 MIT License:
